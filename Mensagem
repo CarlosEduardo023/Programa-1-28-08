@@ -1,0 +1,7 @@
+ Console.Write("Olá ");
+            Console.WriteLine("mundo !");
+            Console.Write("Entre com seu nome: ");
+            String nome = Console.ReadLine();
+            Console.Write("Bom dia, ");
+            Console.Write(nome);
+            Console.WriteLine("!");
